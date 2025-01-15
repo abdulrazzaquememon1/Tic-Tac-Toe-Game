@@ -10,15 +10,15 @@ Here you can choose Player 2 move:
 
 ![Player 2 row](https://github.com/user-attachments/assets/935a9979-b238-45d0-ac0c-fc28c47edbc0)
 
-If Player 1 win:
+If Player 1 wins:
 
 ![Player 1](https://github.com/user-attachments/assets/bfb2e814-631f-4393-a2bb-d75ec9e9b0a4)
 
-If Player 2 win:
+If Player 2 wins:
 
 ![Player 2](https://github.com/user-attachments/assets/b6069123-a345-4372-a851-7079f2934171)
 
-If Computer win:
+If Computer wins:
 
 ![Computer won](https://github.com/user-attachments/assets/086a22e6-1e95-4297-bdb5-6f8e2e7f31c3)
 
